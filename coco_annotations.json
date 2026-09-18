@@ -41,6 +41,24 @@
       "file_name": "screenshot_20260917_232643.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 19,
+      "file_name": "screenshot_20260918_021625.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 20,
+      "file_name": "screenshot_20260918_021644.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 21,
+      "file_name": "screenshot_20260918_022646.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -173,6 +191,19 @@
       ],
       "area": 567,
       "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 19,
+      "category_id": 11,
+      "bbox": [
+        1723,
+        960,
+        22,
+        29
+      ],
+      "area": 638,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -218,6 +249,11 @@
     {
       "id": 10,
       "name": "treasure_key_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 11,
+      "name": "star_link_icon",
       "supercategory": ""
     }
   ]
