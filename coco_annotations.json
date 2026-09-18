@@ -59,6 +59,12 @@
       "file_name": "screenshot_20260918_022646.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 22,
+      "file_name": "screenshot_20260918_224930.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -204,6 +210,19 @@
       ],
       "area": 638,
       "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 22,
+      "category_id": 12,
+      "bbox": [
+        1842,
+        32,
+        23,
+        31
+      ],
+      "area": 713,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -254,6 +273,11 @@
     {
       "id": 11,
       "name": "star_link_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 12,
+      "name": "char_button",
       "supercategory": ""
     }
   ]
