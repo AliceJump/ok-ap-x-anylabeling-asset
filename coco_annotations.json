@@ -95,6 +95,30 @@
       "file_name": "screenshot_20260920_131041.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 28,
+      "file_name": "screenshot_20260920_180007.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 29,
+      "file_name": "screenshot_20260920_190350.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 30,
+      "file_name": "screenshot_20260920_201332.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 31,
+      "file_name": "screenshot_20260920_211647.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -294,7 +318,33 @@
       "iscrowd": 0
     },
     {
-      "id": 20,
+      "id": 22,
+      "image_id": 27,
+      "category_id": 19,
+      "bbox": [
+        140,
+        174,
+        27,
+        28
+      ],
+      "area": 756,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 28,
+      "category_id": 20,
+      "bbox": [
+        1843,
+        252,
+        25,
+        26
+      ],
+      "area": 650,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
       "image_id": 25,
       "category_id": 16,
       "bbox": [
@@ -307,7 +357,7 @@
       "iscrowd": 0
     },
     {
-      "id": 21,
+      "id": 25,
       "image_id": 25,
       "category_id": 18,
       "bbox": [
@@ -320,16 +370,68 @@
       "iscrowd": 0
     },
     {
-      "id": 22,
-      "image_id": 27,
-      "category_id": 19,
+      "id": 26,
+      "image_id": 25,
+      "category_id": 21,
       "bbox": [
-        140,
+        260,
+        596,
+        84,
+        73
+      ],
+      "area": 6132,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 29,
+      "category_id": 22,
+      "bbox": [
+        139,
         174,
         27,
-        28
+        29
       ],
-      "area": 756,
+      "area": 783,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 30,
+      "category_id": 23,
+      "bbox": [
+        725,
+        180,
+        16,
+        15
+      ],
+      "area": 240,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 30,
+      "category_id": 24,
+      "bbox": [
+        1107,
+        289,
+        42,
+        26
+      ],
+      "area": 1092,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 31,
+      "category_id": 25,
+      "bbox": [
+        893,
+        350,
+        22,
+        22
+      ],
+      "area": 484,
       "iscrowd": 0
     }
   ],
@@ -416,6 +518,36 @@
     {
       "id": 19,
       "name": "crafting_table_check",
+      "supercategory": ""
+    },
+    {
+      "id": 20,
+      "name": "home_claim_cross",
+      "supercategory": ""
+    },
+    {
+      "id": 21,
+      "name": "home_building_pot",
+      "supercategory": ""
+    },
+    {
+      "id": 22,
+      "name": "pot_check",
+      "supercategory": ""
+    },
+    {
+      "id": 23,
+      "name": "pot_category_all_activated",
+      "supercategory": ""
+    },
+    {
+      "id": 24,
+      "name": "food_little_bobo",
+      "supercategory": ""
+    },
+    {
+      "id": 25,
+      "name": "home_levelup_popup",
       "supercategory": ""
     }
   ]
