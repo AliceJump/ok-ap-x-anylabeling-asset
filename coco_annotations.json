@@ -119,6 +119,30 @@
       "file_name": "screenshot_20260920_211647.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 32,
+      "file_name": "screenshot_20260923_223423.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 33,
+      "file_name": "screenshot_20260923_223434.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 34,
+      "file_name": "screenshot_20260923_223517.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 35,
+      "file_name": "screenshot_20260923_223523.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -446,6 +470,58 @@
       ],
       "area": 210,
       "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 32,
+      "category_id": 27,
+      "bbox": [
+        679,
+        1034,
+        12,
+        13
+      ],
+      "area": 156,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 33,
+      "category_id": 28,
+      "bbox": [
+        580,
+        935,
+        32,
+        60
+      ],
+      "area": 1920,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 34,
+      "category_id": 29,
+      "bbox": [
+        953,
+        934,
+        32,
+        59
+      ],
+      "area": 1888,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 35,
+      "category_id": 30,
+      "bbox": [
+        1325,
+        932,
+        34,
+        64
+      ],
+      "area": 2176,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -566,6 +642,26 @@
     {
       "id": 26,
       "name": "home_ranch_claim",
+      "supercategory": ""
+    },
+    {
+      "id": 27,
+      "name": "commission_check",
+      "supercategory": ""
+    },
+    {
+      "id": 28,
+      "name": "commission_daily_material_check",
+      "supercategory": ""
+    },
+    {
+      "id": 29,
+      "name": "commission_daily_boss_check",
+      "supercategory": ""
+    },
+    {
+      "id": 30,
+      "name": "commission_daily_equipment_check",
       "supercategory": ""
     }
   ]
