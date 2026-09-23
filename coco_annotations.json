@@ -279,19 +279,6 @@
       "iscrowd": 0
     },
     {
-      "id": 16,
-      "image_id": 24,
-      "category_id": 15,
-      "bbox": [
-        1766,
-        928,
-        33,
-        32
-      ],
-      "area": 1056,
-      "iscrowd": 0
-    },
-    {
       "id": 18,
       "image_id": 26,
       "category_id": 17,
@@ -433,6 +420,32 @@
       ],
       "area": 484,
       "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 24,
+      "category_id": 15,
+      "bbox": [
+        1766,
+        928,
+        33,
+        32
+      ],
+      "area": 1056,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 24,
+      "category_id": 26,
+      "bbox": [
+        580,
+        983,
+        15,
+        14
+      ],
+      "area": 210,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -497,7 +510,7 @@
     },
     {
       "id": 15,
-      "name": "home_kibi_manage",
+      "name": "home_kibo_manage",
       "supercategory": ""
     },
     {
@@ -548,6 +561,11 @@
     {
       "id": 25,
       "name": "home_levelup_popup",
+      "supercategory": ""
+    },
+    {
+      "id": 26,
+      "name": "home_ranch_claim",
       "supercategory": ""
     }
   ]
