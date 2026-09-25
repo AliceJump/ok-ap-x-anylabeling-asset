@@ -949,6 +949,19 @@
       ],
       "area": 441,
       "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 49,
+      "category_id": 56,
+      "bbox": [
+        132,
+        1057,
+        36,
+        18
+      ],
+      "area": 648,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1214,6 +1227,11 @@
     {
       "id": 55,
       "name": "big_month_card_check",
+      "supercategory": ""
+    },
+    {
+      "id": 56,
+      "name": "uid_text",
       "supercategory": ""
     }
   ]
