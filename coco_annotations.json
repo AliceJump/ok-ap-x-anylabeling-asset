@@ -263,6 +263,18 @@
       "file_name": "screenshot_20261126_103140.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 57,
+      "file_name": "screenshot_20261126_123546.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 58,
+      "file_name": "screenshot_20261126_123650.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -993,6 +1005,32 @@
       ],
       "area": 1568,
       "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 57,
+      "category_id": 59,
+      "bbox": [
+        879,
+        546,
+        21,
+        19
+      ],
+      "area": 399,
+      "iscrowd": 0
+    },
+    {
+      "id": 74,
+      "image_id": 58,
+      "category_id": 60,
+      "bbox": [
+        880,
+        547,
+        18,
+        18
+      ],
+      "area": 324,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1268,6 +1306,16 @@
     {
       "id": 58,
       "name": "tutorial_close",
+      "supercategory": ""
+    },
+    {
+      "id": 59,
+      "name": "dialog_remember_uncheck",
+      "supercategory": ""
+    },
+    {
+      "id": 60,
+      "name": "dialog_remember_check",
       "supercategory": ""
     }
   ]
