@@ -245,6 +245,24 @@
       "file_name": "screenshot_20260925_153427.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 54,
+      "file_name": "screenshot_20261126_100552.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 55,
+      "file_name": "screenshot_20261126_103132.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 56,
+      "file_name": "screenshot_20261126_103140.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -324,19 +342,6 @@
         22
       ],
       "area": 704,
-      "iscrowd": 0
-    },
-    {
-      "id": 8,
-      "image_id": 13,
-      "category_id": 7,
-      "bbox": [
-        1849,
-        36,
-        21,
-        20
-      ],
-      "area": 420,
       "iscrowd": 0
     },
     {
@@ -949,6 +954,45 @@
       ],
       "area": 441,
       "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 54,
+      "category_id": 56,
+      "bbox": [
+        1792,
+        35,
+        22,
+        22
+      ],
+      "area": 484,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 55,
+      "category_id": 57,
+      "bbox": [
+        1518,
+        462,
+        51,
+        49
+      ],
+      "area": 2499,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 56,
+      "category_id": 58,
+      "bbox": [
+        789,
+        835,
+        28,
+        56
+      ],
+      "area": 1568,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -975,11 +1019,6 @@
     {
       "id": 6,
       "name": "account_switch"
-    },
-    {
-      "id": 7,
-      "name": "skip_dialog",
-      "supercategory": ""
     },
     {
       "id": 8,
@@ -1214,6 +1253,21 @@
     {
       "id": 55,
       "name": "big_month_card_check",
+      "supercategory": ""
+    },
+    {
+      "id": 56,
+      "name": "skip_dialog",
+      "supercategory": ""
+    },
+    {
+      "id": 57,
+      "name": "tutorial_arrow_right",
+      "supercategory": ""
+    },
+    {
+      "id": 58,
+      "name": "tutorial_close",
       "supercategory": ""
     }
   ]
