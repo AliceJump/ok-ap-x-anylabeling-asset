@@ -199,20 +199,8 @@
       "height": 1080
     },
     {
-      "id": 45,
-      "file_name": "screenshot_20260925_130033.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "id": 46,
       "file_name": "screenshot_20260925_131313.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": 47,
-      "file_name": "screenshot_20260925_132224.png",
       "width": 1920,
       "height": 1080
     },
@@ -279,6 +267,12 @@
     {
       "id": 59,
       "file_name": "screenshot_20261127_005435.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 62,
+      "file_name": "screenshot_20261127_171307.png",
       "width": 1920,
       "height": 1080
     }
@@ -857,71 +851,6 @@
       "iscrowd": 0
     },
     {
-      "id": 46,
-      "image_id": 45,
-      "category_id": 40,
-      "bbox": [
-        176,
-        43,
-        19,
-        20
-      ],
-      "area": 380,
-      "iscrowd": 0
-    },
-    {
-      "id": 47,
-      "image_id": 45,
-      "category_id": 41,
-      "bbox": [
-        581,
-        1015,
-        42,
-        40
-      ],
-      "area": 1680,
-      "iscrowd": 0
-    },
-    {
-      "id": 48,
-      "image_id": 45,
-      "category_id": 42,
-      "bbox": [
-        1469,
-        167,
-        11,
-        12
-      ],
-      "area": 132,
-      "iscrowd": 0
-    },
-    {
-      "id": 49,
-      "image_id": 45,
-      "category_id": 43,
-      "bbox": [
-        1026,
-        377,
-        25,
-        24
-      ],
-      "area": 600,
-      "iscrowd": 0
-    },
-    {
-      "id": 50,
-      "image_id": 46,
-      "category_id": 44,
-      "bbox": [
-        1152,
-        666,
-        21,
-        20
-      ],
-      "area": 420,
-      "iscrowd": 0
-    },
-    {
       "id": 51,
       "image_id": 48,
       "category_id": 47,
@@ -1049,6 +978,58 @@
         32
       ],
       "area": 1568,
+      "iscrowd": 0
+    },
+    {
+      "id": 77,
+      "image_id": 62,
+      "category_id": 40,
+      "bbox": [
+        45,
+        29,
+        40,
+        39
+      ],
+      "area": 1560,
+      "iscrowd": 0
+    },
+    {
+      "id": 78,
+      "image_id": 62,
+      "category_id": 41,
+      "bbox": [
+        590,
+        1015,
+        40,
+        42
+      ],
+      "area": 1680,
+      "iscrowd": 0
+    },
+    {
+      "id": 79,
+      "image_id": 62,
+      "category_id": 42,
+      "bbox": [
+        1459,
+        166,
+        11,
+        12
+      ],
+      "area": 132,
+      "iscrowd": 0
+    },
+    {
+      "id": 80,
+      "image_id": 62,
+      "category_id": 62,
+      "bbox": [
+        1387,
+        131,
+        36,
+        29
+      ],
+      "area": 1044,
       "iscrowd": 0
     }
   ],
@@ -1248,16 +1229,6 @@
       "supercategory": ""
     },
     {
-      "id": 43,
-      "name": "shop_button_claim_daily",
-      "supercategory": ""
-    },
-    {
-      "id": 44,
-      "name": "shop_button_claim_daily_confirm",
-      "supercategory": ""
-    },
-    {
       "id": 45,
       "name": "active_daily_check",
       "supercategory": ""
@@ -1340,6 +1311,11 @@
     {
       "id": 61,
       "name": "interact_collect",
+      "supercategory": ""
+    },
+    {
+      "id": 62,
+      "name": "shop_limited_tab_icon",
       "supercategory": ""
     }
   ]
